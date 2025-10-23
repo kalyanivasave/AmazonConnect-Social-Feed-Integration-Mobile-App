@@ -75,7 +75,7 @@ This project followed a **sprint-based UX process**:
 
 - 🎨 Prototype: [View on Figma](https://www.figma.com/proto/AAqCuTLuEmov6176kfBVW3/Kalyani_Wasave_Fall2024?node-id=1232-1736)  
 
-- 📄 Case Study Report: [Amazon Social Case Study.pdf](./Amazon%20Social%20Case%20Study.pdf)  
+- 📄 Case Study Report: [Amazon_Social_Commerce.pdf](./Amazon_Social_Commerce.pdf)  
 
 ---
 
