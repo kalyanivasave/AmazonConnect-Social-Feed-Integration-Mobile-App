@@ -1,5 +1,13 @@
 # 🛍️ Amazon social: Reimagining Product Discovery Inside Amazon  
 
+*Bringing trust, discovery, and community into the world's largest e-commerce platform.*  
+
+![Amazon Social Commerce](./Amazon_Social_Commerce.png)
+
+---
+
+## Project Objectivemazon social: Reimagining Product Discovery Inside Amazon  
+
 *Bringing trust, discovery, and community into the world’s largest e-commerce platform.*  
 
 ---
@@ -75,7 +83,7 @@ This project followed a **sprint-based UX process**:
 
 - 🎨 Prototype: [View on Figma](https://www.figma.com/proto/AAqCuTLuEmov6176kfBVW3/Kalyani_Wasave_Fall2024?node-id=1232-1736)  
 
-- 📄 Case Study Report: [Amazon Social Case Study.pdf](./Amazon%20Social%20Case%20Study.pdf)  
+- 📄 Case Study Report: [Amazon Social Case Study.pdf](https://drive.google.com/file/d/1xRTJqUSbnmh8waEAG6cnPoB2lCzDfnTE/view?usp=sharing)  
 
 ---
 
