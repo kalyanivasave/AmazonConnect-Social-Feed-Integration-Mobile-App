@@ -1,4 +1,5 @@
-# 🛍️ Amazon social: Reimagining Product Discovery Inside Amazon  
+# 🛍️ Amazon Social: Reimagining Product Discovery Within Amazon Without Disrupting Its Core Experience
+
 
 *Bringing trust, discovery, and community into the world's largest e-commerce platform.*  
 
@@ -6,7 +7,7 @@
 
 ---
 
-## Project Objectivemazon social: Reimagining Product Discovery Inside Amazon  
+## 🛍️ Amazon Social: Reimagining Product Discovery Within Amazon Without Disrupting Its Core Experience
 
 *Bringing trust, discovery, and community into the world’s largest e-commerce platform.*  
 
@@ -14,7 +15,7 @@
 
 ## Project Objective  
 
-**Amazon Social** introduces a dedicated **Social Feed** inside the Amazon app.  
+**Amazon Social** introduces a dedicated **Social Feed** inside the Amazon app without disrupting its core experience
 
 This feature addresses the **discovery gap** — where shoppers currently leave Amazon to validate purchases on YouTube, Reddit, or Instagram — by embedding **community-driven product discovery** directly into Amazon’s ecosystem.  
 
@@ -28,9 +29,9 @@ Amazon remains **commerce-first**, while discovery becomes **seamless and social
 
 ---
 
-## Design Process  
+## Design Thinking Process  
 
-This project followed a **sprint-based UX process**:  
+This project followed a **sprint-based UX design process**:  
 
 1. **Understanding Users**  
    - Studied how shoppers validate purchases externally on YouTube, Reddit, and TikTok.  
